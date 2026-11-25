@@ -1,0 +1,8 @@
+emotion,train_images,balanced_weight,smoothed_weight_used
+angry,3398,1.018,1.009
+disgust,315,10.984,3.314
+fear,3417,1.013,1.006
+happy,6327,0.547,0.74
+neutral,4340,0.797,0.893
+sad,4209,0.822,0.907
+surprise,2214,1.563,1.25
