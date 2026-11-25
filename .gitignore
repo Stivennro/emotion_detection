@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+
+# --- Jupyter: automatic backup copies of notebooks ---
+.ipynb_checkpoints/
+
+# --- Secrets: the real API key never goes to GitHub ---
+.env
+
+# --- Dataset: downloaded from Kaggle (see README). Only the placeholder is tracked ---
+data/*
+!data/.gitkeep
+
+# --- Training leftovers: intermediate checkpoints and zip archives ---
+models/checkpoints/
+*.zip
+
+# --- Operating system / editors ---
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.gradio/
