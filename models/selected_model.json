@@ -1,0 +1,11 @@
+{
+  "selected": "improved_model_v2_tta",
+  "model_file": "improved_model_v2.keras",
+  "use_tta": true,
+  "validation_accuracy": {
+    "improved_model": 0.6389,
+    "improved_model_v2": 0.6627,
+    "improved_model_v2_tta": 0.6698
+  },
+  "test_accuracy_of_selected": 0.6654
+}
