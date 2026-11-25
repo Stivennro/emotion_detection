@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.6654,
+  "test_top2_accuracy": 0.8363,
+  "macro_f1": 0.6499,
+  "weighted_f1": 0.6663
+}

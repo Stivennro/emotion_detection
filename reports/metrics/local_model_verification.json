@@ -1,0 +1,13 @@
+{
+  "model_file": "improved_model_v2.keras",
+  "saved_with_keras": "3.13.2",
+  "loaded_with_keras": "3.15.1",
+  "tensorflow": "2.21.0",
+  "load_warnings": 0,
+  "use_tta": true,
+  "test_images": 7178,
+  "test_accuracy": 0.6654,
+  "test_top2_accuracy": 0.8363,
+  "reference_accuracy": 0.6654,
+  "ms_per_face_batched": 14.753
+}
