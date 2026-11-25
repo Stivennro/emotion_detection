@@ -1,0 +1,11 @@
+{
+  "frames_with_face": 1258,
+  "smoothing_window": 10,
+  "raw_label_changes": 189,
+  "smoothed_label_changes": 63,
+  "raw_changes_per_100_frames": 15.02,
+  "smoothed_changes_per_100_frames": 5.01,
+  "flicker_reduction_pct": 66.7,
+  "avg_fps": 16.2,
+  "history_samples": 83
+}
