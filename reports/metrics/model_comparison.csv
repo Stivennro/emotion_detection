@@ -1,0 +1,10 @@
+,base_model,improved_model,improved_model_v2,improved_model_v2_tta
+test_accuracy,0.5887,0.64,0.659,0.6654
+test_top2_accuracy,0.7738,0.8228,0.8337,0.8363
+macro_f1,0.5678,0.6051,0.6429,0.6499
+weighted_f1,0.5888,0.6371,0.6604,0.6663
+training_minutes,5.14,15.65,27.54,27.54
+epochs_trained,50,45,81,81
+parameters,2345607,5872455,5872455,5872455
+tensorflow_version,2.21.0,2.21.0,2.21.0,2.21.0
+keras_version,3.13.2,3.13.2,3.13.2,3.13.2

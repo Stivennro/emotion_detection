@@ -1,0 +1,21 @@
+{
+  "frames_measured": 944,
+  "avg_fps": 19.5,
+  "frame_ms_mean": 51.2,
+  "frame_ms_p95": 79.1,
+  "detection_ms_mean": 11.4,
+  "prediction_ms_mean": 19.3,
+  "prediction_ms_p95": 24.5,
+  "frames_with_face_ratio": 0.971,
+  "max_faces": 1,
+  "use_tta": true,
+  "detector": {
+    "scale_factor": 1.1,
+    "min_neighbors": 5,
+    "min_size": [
+      60,
+      60
+    ]
+  },
+  "prediction_speedup_vs_model_predict": 5.1
+}
