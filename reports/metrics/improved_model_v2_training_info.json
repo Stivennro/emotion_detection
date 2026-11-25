@@ -1,0 +1,7 @@
+{
+  "training_minutes": 27.54,
+  "epochs_trained": 81,
+  "parameters": 5872455,
+  "tensorflow_version": "2.21.0",
+  "keras_version": "3.13.2"
+}
