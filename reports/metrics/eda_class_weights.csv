@@ -1,0 +1,8 @@
+emotion,train_images,class_weight
+angry,3995,1.027
+disgust,436,9.407
+fear,4097,1.001
+happy,7215,0.568
+neutral,4965,0.826
+sad,4830,0.849
+surprise,3171,1.293

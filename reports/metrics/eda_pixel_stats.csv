@@ -1,0 +1,8 @@
+emotion,sampled_images,mean_brightness,std_contrast
+angry,400,125.19,65.22
+disgust,400,135.62,63.6
+fear,400,136.76,65.38
+happy,400,128.68,62.85
+neutral,400,122.19,64.95
+sad,400,125.14,65.12
+surprise,400,146.45,64.18
