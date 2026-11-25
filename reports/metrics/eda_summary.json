@@ -1,0 +1,33 @@
+{
+  "total_images": 35887,
+  "images_per_split": {
+    "train": 28709,
+    "test": 7178
+  },
+  "train_images_per_class": {
+    "angry": 3995,
+    "disgust": 436,
+    "fear": 4097,
+    "happy": 7215,
+    "neutral": 4965,
+    "sad": 4830,
+    "surprise": 3171
+  },
+  "majority_class": "happy",
+  "minority_class": "disgust",
+  "imbalance_ratio": 16.55,
+  "image_sizes": {
+    "48x48": 35887
+  },
+  "color_modes": {
+    "L": 35887
+  },
+  "sample_pixel_mean": 131.43,
+  "sample_pixel_std": 64.97,
+  "duplicates_within_split": {
+    "train": 1236,
+    "test": 86
+  },
+  "test_images_also_in_train": 531,
+  "identical_images_with_conflicting_labels": 57
+}

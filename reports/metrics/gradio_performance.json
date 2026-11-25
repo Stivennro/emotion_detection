@@ -1,0 +1,21 @@
+{
+  "frames_processed": 7065,
+  "frame_size": [
+    640,
+    480
+  ],
+  "stream_every_s": 0.05,
+  "interface_fps": 11.6,
+  "arrival_gap_ms_p95": 145.3,
+  "processing_ms_mean": 59.6,
+  "processing_ms_p95": 105.4,
+  "detection_ms_mean": 21.3,
+  "prediction_ms_mean": 33.5,
+  "frames_with_face_ratio": 0.912,
+  "frames_with_face": 6454,
+  "smoothing_window": 10,
+  "raw_changes_per_100_frames": 4.8,
+  "smoothed_changes_per_100_frames": 1.38,
+  "history_samples": 564,
+  "use_tta": true
+}
