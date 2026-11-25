@@ -1,0 +1,17 @@
+{
+  "queries": 16,
+  "answered": 16,
+  "success_rate": 1.0,
+  "fallback_answers": 0,
+  "latency_s_mean": 1.41,
+  "latency_s_median": 1.4,
+  "latency_s_max": 1.85,
+  "answers_by_model": {
+    "gemini-3.5-flash-lite": 16
+  },
+  "errors": {},
+  "configured_models": [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite"
+  ]
+}
